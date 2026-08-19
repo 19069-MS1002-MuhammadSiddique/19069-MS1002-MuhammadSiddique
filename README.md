@@ -12,7 +12,7 @@
 
 <h3>🚀 <i>Automating Infrastructure • Accelerating Delivery • Building Reliable Platforms</i> 🚀</h3>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadumer-devops&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=19069-MS1002-MuhammadSiddique&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge&logo=github" alt="open to work"/>
 &nbsp;
@@ -283,13 +283,13 @@ I'm a **DevOps / Cloud / Platform Engineer** who bridges the gap between develop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadumer-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=19069-MS1002-MuhammadSiddique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19069-MS1002-MuhammadSiddique&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="43%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=muhammadumer-devops&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer-devops&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=19069-MS1002-MuhammadSiddique&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=19069-MS1002-MuhammadSiddique&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
@@ -297,7 +297,7 @@ I'm a **DevOps / Cloud / Platform Engineer** who bridges the gap between develop
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadumer-devops&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=19069-MS1002-MuhammadSiddique&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 </details>
 
@@ -349,7 +349,7 @@ Bachelor of Science in Computer Science
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadumer.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadumer-devops)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msiddiqueumer971@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadumer-devops)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/19069-MS1002-MuhammadSiddique)
 
 </div>
 
