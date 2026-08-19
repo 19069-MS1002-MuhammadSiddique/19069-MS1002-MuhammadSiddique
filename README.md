@@ -1,708 +1,362 @@
-# Muhammad Siddique Umer
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Kubernetes+Engineer;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Practitioner;Full+Stack+Engineer;DevSecOps+Enthusiast" alt="Animated professional title showing DevOps and Cloud engineering roles" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Muhammad%20Siddique%20Umer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Platform%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <strong>DevOps Engineer • Cloud Infrastructure • Kubernetes • CI/CD • Infrastructure as Code</strong>
-</p>
+<a href="https://muhammadumer.space">
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+Engineer+%7C+AWS+Specialist;Kubernetes+Enthusiast;CI%2FCD+Automation+Expert;Infrastructure+as+Code+Engineer;Platform+Reliability+Advocate&font=Fira+Code&center=true&width=650&height=50&color=58A6FF&vCenter=true&size=24&pause=1200&duration=2600" />
+</a>
 
-<p align="center">
-  Building reliable systems, automating delivery, and turning infrastructure into repeatable engineering.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://muhammadumer.space">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/muhammadumer-devops">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:msiddiqueumer971@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://github.com/muhammadumer">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub" />
-  </a>
-</p>
+📍 **Pakistan**   •   📧 **msiddiqueumer971@gmail.com**   •   🌐 **[muhammadumer.space](https://muhammadumer.space)**   •   💼 **[LinkedIn](https://linkedin.com/in/muhammadumer-devops)**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadumer&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="GitHub profile views" />
-</p>
+<h3>🚀 <i>Automating Infrastructure • Accelerating Delivery • Building Reliable Platforms</i> 🚀</h3>
 
----
+<img src="https://komarev.com/ghpvc/?username=muhammadumer-devops&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge&logo=github" alt="open to work"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Building%20Reliable%20Platforms-0F2027?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="status"/>
 
-## `> whoami`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-```text
-$ whoami
+</div>
 
-Muhammad Siddique Umer
+<br/>
 
-$ role
-
-DevOps Engineer
-
-$ focus
-
-Cloud • Kubernetes • CI/CD • Infrastructure as Code
-
-$ background
-
-Software Engineering • Full Stack Development
-
-$ mindset
-
-Automate → Secure → Observe → Improve
-```
-
-I’m a **DevOps Engineer** focused on cloud infrastructure, CI/CD automation, Kubernetes, Infrastructure as Code, observability, and production reliability.
-
-My engineering background also includes full-stack development with **React, Node.js, MongoDB, REST APIs, authentication systems, performance optimization, and production deployments**.
-
-I work at the intersection of:
-
-```text
-Software Engineering
-        ↓
-Automation
-        ↓
-Cloud
-        ↓
-Infrastructure
-        ↓
-Reliability
-        ↓
-Security
-```
-
----
-
-## `> engineering philosophy`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  $ cat engineering-philosophy.txt                         │
-│                                                            │
-│  Automate repetitive work.                                 │
-│  Design infrastructure as code.                           │
-│  Build for failure.                                        │
-│  Observe everything.                                       │
-│  Secure the pipeline.                                     │
-│  Ship with confidence.                                     │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-## `> impact`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/35%25-Faster%20Deployments-58A6FF?style=for-the-badge" alt="35 percent faster deployments" />
-  <img src="https://img.shields.io/badge/20%2B-Kubernetes%20Services-8B5CF6?style=for-the-badge" alt="20 plus Kubernetes services" />
-  <img src="https://img.shields.io/badge/8%2B-Microservices-22D3EE?style=for-the-badge" alt="8 plus microservices" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/3-AWS%20Environments-3FB950?style=for-the-badge" alt="3 AWS environments" />
-  <img src="https://img.shields.io/badge/99.9%25-Project%20Uptime-58A6FF?style=for-the-badge" alt="99.9 percent project uptime" />
-  <img src="https://img.shields.io/badge/38%25-Lower%20DB%20Latency-8B5CF6?style=for-the-badge" alt="38 percent lower database latency" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/65%25-Fewer%20Manual%20Steps-22D3EE?style=for-the-badge" alt="65 percent fewer manual deployment steps" />
-  <img src="https://img.shields.io/badge/50%25-Infrastructure%20Cost%20Reduction-3FB950?style=for-the-badge" alt="50 percent infrastructure cost reduction" />
-  <img src="https://img.shields.io/badge/2,000%2B-Concurrent%20Users-58A6FF?style=for-the-badge" alt="2000 plus concurrent users" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/12%2B-Critical%20Vulnerabilities%20Blocked-8B5CF6?style=for-the-badge" alt="12 plus critical vulnerabilities blocked before release" />
-</p>
-
----
-
-## `> technical arsenal`
-
-### ☁️ Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900" alt="Amazon EC2" />
-  <img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=FF9900" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon VPC" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS IAM" />
-  <img src="https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=FF9900" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/ECS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon ECS" />
-  <img src="https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900" alt="Amazon EKS" />
-  <img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazonrds&logoColor=FF9900" alt="Amazon RDS" />
-  <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazoncloudwatch&logoColor=FF9900" alt="Amazon CloudWatch" />
-</p>
-
-### ⚙️ DevOps / CI/CD
-
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=flat-square&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-</p>
-
-### 🏗️ Infrastructure as Code
-
-<p>
-  <img src="https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CloudFormation-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS CloudFormation" />
-</p>
-
-### 🔧 Scripting / Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell" />
-</p>
-
-### 📊 Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana Loki" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-0D1117?style=flat-square&logo=elastic&logoColor=00BFB3" alt="ELK Stack" />
-  <img src="https://img.shields.io/badge/CloudWatch-0D1117?style=flat-square&logo=amazoncloudwatch&logoColor=FF9900" alt="Amazon CloudWatch" />
-</p>
-
-### 🛡️ Security / DevSecOps
-
-<p>
-  <img src="https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Trivy-0D1117?style=flat-square&logo=aqua&logoColor=7B61FF" alt="Trivy" />
-  <img src="https://img.shields.io/badge/OWASP%20Dependency--Check-0D1117?style=flat-square&logo=owasp&logoColor=FFFFFF" alt="OWASP Dependency Check" />
-  <img src="https://img.shields.io/badge/IAM-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Identity and Access Management" />
-</p>
-
-### 🐧 Operating Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/CentOS-0D1117?style=flat-square&logo=centos&logoColor=FFFFFF" alt="CentOS" />
-  <img src="https://img.shields.io/badge/RHEL-0D1117?style=flat-square&logo=redhat&logoColor=EE0000" alt="Red Hat Enterprise Linux" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0D1117?style=flat-square&logo=windows&logoColor=0078D4" alt="Windows Server" />
-</p>
-
-### 💻 Application Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JSON Web Token authentication" />
-  <img src="https://img.shields.io/badge/Java%20Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Java Spring Boot" />
-</p>
-
----
-
-## `> devops architecture`
-
-```text
-                           ┌──────────────────┐
-                           │    DEVELOPER     │
-                           └────────┬─────────┘
-                                    │
-                                    ▼
-                           ┌──────────────────┐
-                           │     GITHUB       │
-                           └────────┬─────────┘
-                                    │
-                                    ▼
-                    ┌──────────────────────────────┐
-                    │           CI / CD            │
-                    │                              │
-                    │ Jenkins / Azure DevOps /     │
-                    │ GitHub Actions               │
-                    └──────────────┬───────────────┘
-                                   │
-                    ┌──────────────┼──────────────┐
-                    ▼              ▼              ▼
-               ┌─────────┐   ┌─────────┐   ┌──────────────┐
-               │SonarQube│   │  Trivy  │   │ Dependency   │
-               │         │   │         │   │   Check      │
-               └────┬────┘   └────┬────┘   └──────┬───────┘
-                    │              │               │
-                    └──────────────┼───────────────┘
-                                   ▼
-                           ┌──────────────────┐
-                           │      DOCKER      │
-                           └────────┬─────────┘
-                                    │
-                                    ▼
-                  ┌────────────────────────────────┐
-                  │      KUBERNETES / EKS           │
-                  │                                │
-                  │ Applications                   │
-                  │ HPA                            │
-                  │ Health Checks                  │
-                  │ Blue-Green Deployments         │
-                  └───────────────┬────────────────┘
-                                  │
-                                  ▼
-                     ┌─────────────────────────┐
-                     │    AWS INFRASTRUCTURE   │
-                     │                         │
-                     │ EC2 • VPC • S3          │
-                     │ IAM • RDS                │
-                     └────────────┬────────────┘
-                                  │
-                                  ▼
-                 ┌──────────────────────────────────┐
-                 │          OBSERVABILITY            │
-                 │                                  │
-                 │ Prometheus → Grafana → PagerDuty │
-                 └──────────────────────────────────┘
-```
-
----
-
-## `> professional experience`
-
-### 🚀 CareCloud MTBC — DevOps Engineer
-
-**Mar 2025 – Present**
-
-Current focus: **Cloud Infrastructure • CI/CD • Kubernetes • Terraform • Observability**
-
-* Designed and maintained CI/CD pipelines using **Jenkins** and **Azure DevOps**.
-* Reduced average deployment time by **35%**.
-* Enabled twice-weekly releases across **8+ microservices**.
-* Provisioned AWS infrastructure using **Terraform**.
-* Worked with **EC2, S3, VPC, IAM, and RDS**.
-* Applied encryption-at-rest and least-privilege IAM practices.
-* Managed Kubernetes workloads across **20+ services**.
-* Implemented **blue-green deployments** and **Horizontal Pod Autoscaling (HPA)**.
-* Supported zero-downtime production rollouts during traffic spikes.
-* Built **Prometheus and Grafana** monitoring dashboards.
-* Integrated **PagerDuty** alert routing.
-* Reduced mean time to detect from **25 minutes to under 8 minutes**.
-
----
-
-### 💻 FWS — Software Engineer
-
-**Nov 2024 – Jun 2025**
-
-* Worked on a React / Node.js full-stack platform supporting **2,000+ concurrent users**.
-* Maintained **99.7% uptime** over a six-month production window.
-* Built and maintained REST APIs.
-* Implemented JWT authentication.
-* Developed three-tier role-based access control.
-* Optimized MongoDB queries and database operations.
-* Reduced database latency by **38%**.
-* Collaborated with QA and Linux teams.
-* Supported production releases and incident resolution.
-* Created operational runbooks.
-
----
-
-### 🧩 Dotmatrix — Full Stack Engineer
-
-**Feb 2023 – Aug 2024**
-
-* Developed applications using **React, Node.js, and MongoDB**.
-* Worked across **3 client projects**.
-* Implemented **8+ authentication modules**.
-* Supported **1,500+ active users per project**.
-* Built and maintained **15+ REST API endpoints**.
-* Implemented validation and error-handling improvements.
-* Added response caching.
-* Improved frontend performance by **30%**.
-* Used code splitting and lazy loading.
-* Optimized responsive application experiences.
-* Reviewed **20+ pull requests**.
-* Mentored **2 junior developers**.
-
----
-
-## `> featured projects`
-
-### ☸️ Kubernetes & DevOps Pipeline
-
-**Java • Spring Boot • Kubernetes • Kubespray • Docker • Jenkins • SonarQube • Nexus • Trivy**
-
-```text
-Source
-  ↓
-Jenkins
-  ↓
-Build
-  ↓
-SonarQube
-  ↓
-Trivy
-  ↓
-Docker
-  ↓
-3-Node Kubernetes Cluster
-  ↓
-Application
-```
-
-**Highlights**
-
-* Deployed a Spring Boot application on a **3-node Kubernetes cluster**.
-* Implemented liveness and readiness probes.
-* Achieved **99.9% uptime**.
-* Implemented automatic pod self-healing.
-* Automated the build-to-deployment workflow.
-* Reduced manual deployment steps by **65%**.
-* Blocked **12+ critical vulnerabilities** before release.
-
-<!-- Add project repository URL -->
-
----
-
-### 🛡️ Multi-Tier DevSecOps Pipeline
-
-**Jenkins • SonarQube • OWASP Dependency-Check • Trivy • GitHub Webhooks**
-
-```text
-GitHub
-   │
-   ▼
-Webhook
-   │
-   ▼
-Jenkins
-   │
-   ├── Static Analysis
-   ├── Dependency Scanning
-   ├── Container Scanning
-   │
-   ▼
-Secure Release
-```
-
-**Highlights**
-
-* Designed a security-focused CI/CD pipeline.
-* Automated vulnerability detection.
-* Added critical CVE reporting.
-* Completed **5 release cycles**.
-* Implemented event-driven builds through GitHub webhooks.
-* Eliminated **6+ hours of manual weekly effort**.
-* Improved release cadence from **monthly to weekly**.
-
-<!-- Add project repository URL -->
-
----
-
-### 📊 Open-Source DevOps Toolchain
-
-**Docker • Kubernetes • Jenkins • SonarQube • Prometheus • Grafana**
-
-```text
-Git
- ↓
-Jenkins
- ↓
-Docker
- ↓
-Kubernetes
- ↓
-Prometheus
- ↓
-Grafana
-```
-
-**Highlights**
-
-* Built an end-to-end CI/CD pipeline.
-* Automated Docker builds.
-* Automated Kubernetes deployments.
-* Integrated automated code analysis.
-* Improved quality-gate pass rate by **40%**.
-* Built self-hosted infrastructure.
-* Reduced infrastructure costs by **50%** compared with equivalent managed cloud services.
-
-<!-- Add project repository URL -->
-
----
-
-## `> developer workflow`
-
-```text
-              ┌───────────┐
-              │   CODE    │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │  COMMIT   │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │   BUILD   │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │   TEST    │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │   SCAN    │
-              └─────┬─────┘
-                    ↓
-              ┌──────────────┐
-              │ CONTAINERIZE │
-              └──────┬───────┘
-                     ↓
-              ┌───────────┐
-              │  DEPLOY   │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │  OBSERVE  │
-              └─────┬─────┘
-                    ↓
-              ┌───────────┐
-              │  IMPROVE  │
-              └───────────┘
-```
-
----
-
-## `> security mindset`
-
-```text
-Security isn't a final pipeline stage.
-
-It starts at commit.
-        ↓
-Static Analysis
-        ↓
-Dependency Scanning
-        ↓
-Container Scanning
-        ↓
-Least Privilege
-        ↓
-Secure Deployment
-```
-
-### Security Tooling
-
-`SonarQube` • `OWASP Dependency-Check` • `Trivy` • `IAM` • `Encryption at Rest`
-
----
-
-## `> github statistics`
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=muhammadumer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=8B5CF6&include_all_commits=true"
-    height="180"
-    alt="Muhammad Siddique Umer GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8"
-    height="180"
-    alt="Muhammad Siddique Umer top programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=muhammadumer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF"
-    alt="Muhammad Siddique Umer GitHub contribution streak"
-  />
-</p>
-
-> GitHub statistics above are generated dynamically from the public GitHub profile. No manually fabricated contribution numbers are displayed.
-
----
-
-## `> contribution activity`
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=22D3EE&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="95%"
-  />
-</p>
-
----
-
-## `> currently engineering`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  Cloud Infrastructure                       │
-│  Kubernetes                                 │
-│  DevOps Automation                          │
-│  CI/CD Optimization                         │
-│  Infrastructure as Code                     │
-│  Observability                              │
-│  DevSecOps                                  │
-│  Production Reliability                     │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## `> education`
-
-### National University of Computer and Emerging Sciences (FAST)
-
-**Islamabad, Pakistan**
-
-**Bachelor of Science in Computer Science**
-
-`Sep 2021 – Jun 2025`
-
-**Academic Distinction:** Dean's Lister
-
----
-
-## `> engineering focus`
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### ☁️ Cloud Infrastructure
+## 👋 About Me
 
-* AWS
-* EC2
-* S3
-* VPC
-* IAM
-* RDS
-* EKS
-* Infrastructure as Code
+I'm a **DevOps / Cloud / Platform Engineer** who bridges the gap between development and operations — building automated, secure, and self-healing infrastructure that scales. I specialize in taking chaotic manual deployments and turning them into **one-click, self-healing, observable pipelines**.
+
+- 🔭 Currently engineering cloud-native platforms at **CareCloud MTBC**
+- ☁️ Deep hands-on expertise in **AWS**, **Kubernetes**, and **Terraform**
+- ⚙️ Passionate about **CI/CD automation**, **IaC**, and **DevSecOps**
+- 📊 Strong believer in **"if it's not monitored, it's not in production"**
+- 💻 Background in **Full Stack Engineering** — I understand the app as well as the platform it runs on
+- ⚡ Fun fact: I'd rather write a Terraform module than click through a console
 
 </td>
-<td width="50%" valign="top">
-
-### ☸️ Platform Engineering
-
-* Kubernetes
-* Docker
-* HPA
-* Health Checks
-* Blue-Green Deployments
-* CI/CD
-* Production Deployments
-
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/gist/vn7n24fzkq/9c9e6a7a1b6b1c3c1f7c4b1a1c7e5d1a/raw/devops-loop.gif" width="380" alt="devops"/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-Github/blob/main/DevOps.gif?raw=true" width="380" alt="devops-pipeline"/>
 </td>
 </tr>
+</table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🏢 Current Role
+
+<div align="center">
+
+### **DevOps Engineer** @ CareCloud MTBC
+**`Mar 2025 – Present`**
+
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📈 Reliability
-
-* Prometheus
-* Grafana
-* Loki
-* CloudWatch
-* PagerDuty
-* Monitoring
-* Alerting
-* Observability
+**⚡ Deployment & Delivery**
+- Reduced deployment times by **35%**
+- Enabled **twice-weekly** production releases
+- Implemented **blue-green deployments** for zero-downtime rollouts
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔐 DevSecOps
-
-* SonarQube
-* Trivy
-* OWASP Dependency-Check
-* IAM
-* Encryption at Rest
-* Least Privilege
-* Secure CI/CD
+**☸️ Platform & Reliability**
+- Managed **20+ Kubernetes services** in production
+- Provisioned & governed AWS environments via **Terraform**
+- Cut incident detection time from **25 min → under 8 min**
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## `> full stack foundation`
+## 🧭 Experience Timeline
 
-While my primary professional focus is **DevOps and Cloud Engineering**, my software engineering background helps me understand the systems I operate from the application layer upward.
+<table align="center" width="100%">
+<tr><td>
 
-```text
-Frontend
-React
-   ↓
-Backend
-Node.js / Java Spring Boot
-   ↓
-API Layer
-REST APIs / JWT
-   ↓
-Database
-MongoDB
-   ↓
-Container
-Docker
-   ↓
-Platform
-Kubernetes
-   ↓
-Infrastructure
-AWS + Terraform
-   ↓
-Observability
-Prometheus + Grafana
+**🏢 CareCloud MTBC** — *DevOps Engineer*   `Mar 2025 – Present`
+> Owns Kubernetes platform reliability, Terraform-driven AWS infrastructure, blue-green release strategy, and observability across 20+ microservices.
+
+</td></tr>
+<tr><td>
+
+**🏢 FWS** — *Software Engineer*   `Nov 2024 – Jun 2025`
+> Built and shipped production features while collaborating closely with infrastructure teams on deployment pipelines and release quality.
+
+</td></tr>
+<tr><td>
+
+**🏢 Dotmatrix** — *Full Stack Engineer*   `Feb 2023 – Aug 2024`
+> Delivered end-to-end features across frontend and backend, laying the engineering foundation that later shaped a platform-first, automation-driven mindset.
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>☁️ Cloud (AWS)</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps & CI/CD</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📜 Infrastructure as Code</b></summary>
+<br>
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📊 Monitoring & Security</b></summary>
+<br>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🖥️ Operating Systems</b></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🔄 DevOps Pipeline Flow
+
+<div align="center">
+
+```
+   ┌─────────────┐
+   │  Developer  │
+   └──────┬──────┘
+          │  git push
+          ▼
+   ┌─────────────┐
+   │   GitHub    │
+   └──────┬──────┘
+          │  webhook trigger
+          ▼
+   ┌───────────────────────────┐
+   │  Jenkins / GitHub Actions │
+   └──────┬─────────────────────┘
+          │  build & test
+          ▼
+   ┌─────────────┐
+   │  SonarQube  │  ── static code analysis
+   └──────┬──────┘
+          ▼
+   ┌─────────────┐
+   │    Trivy    │  ── vulnerability scanning
+   └──────┬──────┘
+          ▼
+   ┌─────────────┐
+   │   Docker    │  ── image build & push
+   └──────┬──────┘
+          ▼
+   ┌─────────────┐
+   │  Kubernetes │  ── blue-green deployment
+   └──────┬──────┘
+          ▼
+   ┌───────────────────────────┐
+   │  Prometheus + Grafana     │  ── observability
+   └──────┬─────────────────────┘
+          ▼
+   ┌─────────────┐
+   │ Production  │  ✅ 99.9% uptime
+   └─────────────┘
 ```
 
----
+</div>
 
-## `> let's connect`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-<p align="center">
+## 🚀 Featured Projects
 
-  <a href="https://muhammadumer.space">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio website" />
-  </a>
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
-  <a href="https://linkedin.com/in/muhammadumer-devops">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+### ☸️ Kubernetes & DevOps Pipeline
+**Spring Boot on Kubernetes**
 
-  <a href="mailto:msiddiqueumer971@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-  </a>
+- 3-node Kubernetes cluster
+- Kubespray-based deployment
+- Self-healing pods
+- **99.9%** uptime
+- SonarQube + Nexus integration
+- Trivy image scanning
 
-</p>
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
+</td>
+<td width="33%" valign="top">
 
-<strong>Let's build reliable systems.</strong>
+### 🔐 Multi-Tier DevSecOps Pipeline
 
-</p>
+- SonarQube static analysis
+- Dependency-Check scanning
+- Trivy + CVE detection
+- Automated release process
+- Event-driven builds
 
----
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square)
 
-<p align="center">
-  <sub>
-    Built with curiosity, automation, and a healthy obsession with reliability.
-  </sub>
-</p>
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117"
-    alt="Decorative footer wave"
-  />
-</p>
+### 🧰 Open Source DevOps Toolchain
+
+- Jenkins orchestration
+- Kubernetes workloads
+- Prometheus + Grafana
+- Cost optimization
+- End-to-end CI/CD
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadumer-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="43%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=muhammadumer-devops&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer-devops&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadumer-devops&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 📈 Impact Metrics
+
+<div align="center">
+
+| ☸️ K8s Services | 🧩 Microservices | ⚡ Faster Deploys | 🟢 Availability |
+|:---:|:---:|:---:|:---:|
+| **20+** Managed | **8+** Automated | **35%** Faster | **99.9%** Uptime |
+
+![Multi-Env](https://img.shields.io/badge/Multi--Environment-AWS%20Infrastructure-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![DevSecOps](https://img.shields.io/badge/Security--Integrated-DevSecOps%20Workflows-2ea44f?style=for-the-badge&logo=snyk&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🎯 Certification Roadmap
+
+```
+[■■■■■■■■■■□□□□□□□□□□]  AWS Solutions Architect – Associate     (In Progress)
+[■■■■■□□□□□□□□□□□□□□□]  AWS DevOps Engineer – Professional      (Planned)
+[■■■■■■■□□□□□□□□□□□□□]  Certified Kubernetes Administrator      (In Progress)
+[■■■□□□□□□□□□□□□□□□□□]  HashiCorp Terraform Associate           (Planned)
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🎓 Education
+
+<div align="center">
+
+**National University of Computer and Emerging Sciences (FAST)**
+Bachelor of Science in Computer Science
+🏅 *Dean's Lister*
+📍 Islamabad, Pakistan
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadumer.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadumer-devops)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msiddiqueumer971@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadumer-devops)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=footer&text=Let's%20Build%20Reliable%20Cloud-Native%20Systems&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
+
+<i>Thanks for visiting my profile — let's automate something great together. ⚙️☁️</i>
+
+</div>
